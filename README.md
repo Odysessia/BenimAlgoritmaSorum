@@ -1,1 +1,1 @@
-Yazılan metinde hnagi harften kaç tane olduğunu gösteren program
+Yazılan metinde hangi harften kaç tane olduğunu gösteren program
